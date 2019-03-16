@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.btn-primary{
+	background-color:yellow;
+	}
+	
+	button.btn-primary:hover{
+	background-color:#9F6;
+	}
+	
+.col{
+	background-color:#9C3;
+	border:3px solid black;
+	}
